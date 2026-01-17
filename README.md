@@ -17,9 +17,6 @@
 
 ---
 
-> *I bridge **cross-functional teams** to craft experiences where nothing feels accidental*  
-> *I love exploring **what's next in tech**—and finding ways to bring it into the work*
-
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
 <br>
