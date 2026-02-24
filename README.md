@@ -27,7 +27,7 @@
 
 **Design & Prototyping** · ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe&logoColor=white)
 
-**Certifications** · SQL Developer (SQLD) · Microsoft Azure AI Fundamentals (AI-900) · AI프롬프트활용능력 (AI-POT)
+**Certifications** · SQL Developer (SQLD) · Microsoft Azure AI Fundamentals (AI-900) · AI프롬프트활용능력 1급 (AI-POT)
 
 ---
 
