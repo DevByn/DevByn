@@ -27,35 +27,6 @@
 
 **Design & Prototyping** · ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe&logoColor=white)
 
-**Certifications** · SQL Developer (SQLD) · Microsoft Azure AI Fundamentals (AI-900) · AI 프롬프트 활용능력div align="center">
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=70FFC3&center=true&vCenter=true&lines=Jaehyun+Byun)](https://git.io/typing-svg)
-
-
-</div>
-
-**SW Developer & Project Manager**  
-
-[![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
-
-</div>
-
----
-
-<p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
-
-<br>
-
-**Programming** · ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=flat-square&logo=huggingface&logoColor=white)
-
-**Product Management** · ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=chatbot&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Design & Prototyping** · ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe&logoColor=white)
-
 **Certifications** · SQL Developer (SQLD) · Microsoft Azure AI Fundamentals (AI-900) · AI프롬프트활용능력 (AI-POT)
 
 ---
@@ -84,7 +55,7 @@
 
 <br>
 
-## HCI Research
+## Research
 
 ### 🔮 [**크로스가우시안(CrossGaussian)**](https://github.com/BynPlay/CrossGaussian): 3D Gaussian Spatting 뉴럴 렌더링 기반 원격 협업 인터랙션 연구
 - **역할**: 연구 리드 & 기술 설계 및 통합 [1저자] | **팀 구성**: 게임 엔진 2 · 백엔드 2 · 데이터 분석 1
